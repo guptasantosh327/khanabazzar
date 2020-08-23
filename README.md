@@ -1,2 +1,2 @@
 # khanabazzar
-you can order food from here
+ KhanaBazzar website template was purely developed using HTML5 and CSS3 
